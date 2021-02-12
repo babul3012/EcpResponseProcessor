@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ECPResponseProcessor": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
